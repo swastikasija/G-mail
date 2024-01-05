@@ -1,0 +1,9 @@
+.whole {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    color: rgb(255, 0, 0);
+}
